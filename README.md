@@ -1,4 +1,4 @@
-# google_doc_clone
+# Text Editor
 
 The Text Editor project is a simple yet powerful text editing application designed to provide a user-friendly interface for creating and editing plain text files. It offers essential features for manipulating text, such as creating, opening, saving, and modifying files.
 
